@@ -12,6 +12,7 @@
 		EF83F84B2B61638E00BE550E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF83F84A2B61638E00BE550E /* Assets.xcassets */; };
 		EF83F84E2B61638E00BE550E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF83F84D2B61638E00BE550E /* Preview Assets.xcassets */; };
 		EF83F8552B616A2300BE550E /* ToDoList .swift in Sources */ = {isa = PBXBuildFile; fileRef = EF83F8542B616A2300BE550E /* ToDoList .swift */; };
+		EF83F8572B616B0A00BE550E /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF83F8562B616B0A00BE550E /* AddItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		EF83F84A2B61638E00BE550E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF83F84D2B61638E00BE550E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EF83F8542B616A2300BE550E /* ToDoList .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToDoList .swift"; sourceTree = "<group>"; };
+		EF83F8562B616B0A00BE550E /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				EF83F8462B61638A00BE550E /* To_Do_ListApp.swift */,
 				EF83F8482B61638A00BE550E /* ContentView.swift */,
+				EF83F8562B616B0A00BE550E /* AddItemView.swift */,
 				EF83F8542B616A2300BE550E /* ToDoList .swift */,
 				EF83F84A2B61638E00BE550E /* Assets.xcassets */,
 				EF83F84C2B61638E00BE550E /* Preview Content */,
@@ -143,6 +146,7 @@
 				EF83F8552B616A2300BE550E /* ToDoList .swift in Sources */,
 				EF83F8492B61638A00BE550E /* ContentView.swift in Sources */,
 				EF83F8472B61638A00BE550E /* To_Do_ListApp.swift in Sources */,
+				EF83F8572B616B0A00BE550E /* AddItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
